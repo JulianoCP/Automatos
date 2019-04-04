@@ -1,2 +1,1 @@
-# Automatos
-União de Maquinas de Turing
+# turing_machine
